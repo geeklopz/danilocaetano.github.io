@@ -67,7 +67,7 @@
         <!--<googleplus></googleplus>-->
         <!--<twitter></twitter>-->
         <linkedin>http://br.linkedin.com/in/dalocae</linkedin>
-        <github>https://github.com/rgeeklopz</github>
+        <github>https://github.com/geeklopz</github>
     </redesSociais>
 
     <contato>
@@ -75,8 +75,8 @@
         <localizacao>Salvador, Bahia - Brasil</localizacao>
         <email>danilo.caetano@wdsolucoes.com.br</email>
         <telefones>
-            <item>(71) 99255-3804</item>
             <!--<item>(71) 3521-1506</item>-->
+            <item>(71) 99255-3804</item>
         </telefones>
     </contato>    
     
