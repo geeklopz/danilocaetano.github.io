@@ -17,7 +17,7 @@
         <mensagemBoasVindas>Olá, seja bem vindo!</mensagemBoasVindas>
         <habilidades>Web Developer</habilidades>
         <resumo>
-            <texto>Web Developer desde 2009 com sólidos conhecimentos em linguagem de programação, arquitetura de software e análise de dados.</texto>
+            <texto>Web Developer desde 2004 com sólidos conhecimentos em linguagem de programação.</texto>
             <texto>Graduando em Sistemas para Internet pela Unifacs.</texto>
         </resumo>
         <curriculoPdf>curriculo.pdf</curriculoPdf>
@@ -76,7 +76,7 @@
         <email>danilo.caetano@wdsolucoes.com.br</email>
         <telefones>
             <item>(71) 99255-3804</item>
-            <item>(21) 3521-1506</item>
+            <!--<item>(71) 3521-1506</item>-->
         </telefones>
     </contato>    
     
